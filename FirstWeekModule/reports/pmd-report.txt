@@ -1,0 +1,160 @@
+src/com/entities/ItemEntities.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/entities/ItemEntities.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/entities/ItemEntities.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/entities/ItemEntities.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/entities/ItemEntities.java:3:	DataClass:	DataClass: The class 'ItemEntities' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=8, WMC=8)
+src/com/entities/ItemEntities.java:3:	DataClass:	DataClass: The class 'ItemEntities' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=8, WMC=8)
+src/com/entities/ItemEntities.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/com/entities/ItemEntities.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemName' is not assigned and could be declared final
+src/com/entities/ItemEntities.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemName' is not assigned and could be declared final
+src/com/entities/ItemEntities.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemPrice' is not assigned and could be declared final
+src/com/entities/ItemEntities.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemPrice' is not assigned and could be declared final
+src/com/entities/ItemEntities.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemType' is not assigned and could be declared final
+src/com/entities/ItemEntities.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemType' is not assigned and could be declared final
+src/com/entities/ItemEntities.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemQuantity' is not assigned and could be declared final
+src/com/entities/ItemEntities.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemQuantity' is not assigned and could be declared final
+src/com/mainpack/MySolution.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/com/mainpack/MySolution.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/com/mainpack/MySolution.java:13:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/mainpack/MySolution.java:13:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/mainpack/MySolution.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/mainpack/MySolution.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/mainpack/MySolution.java:14:	CyclomaticComplexity:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 11.
+src/com/mainpack/MySolution.java:14:	CyclomaticComplexity:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 11.
+src/com/mainpack/MySolution.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/com/mainpack/MySolution.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/com/mainpack/MySolution.java:15:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/com/mainpack/MySolution.java:15:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/com/mainpack/MySolution.java:15:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/com/mainpack/MySolution.java:15:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/com/mainpack/MySolution.java:15:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/com/mainpack/MySolution.java:15:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/com/mainpack/MySolution.java:16:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'tt' (lines '16'-'74').
+src/com/mainpack/MySolution.java:16:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'tt' (lines '16'-'74').
+src/com/mainpack/MySolution.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'tt' could be declared final
+src/com/mainpack/MySolution.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'tt' could be declared final
+src/com/mainpack/MySolution.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like tt
+src/com/mainpack/MySolution.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like tt
+src/com/mainpack/MySolution.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/com/mainpack/MySolution.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'logger' could be declared final
+src/com/mainpack/MySolution.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'listOfItems' could be declared final
+src/com/mainpack/MySolution.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'listOfItems' could be declared final
+src/com/mainpack/MySolution.java:21:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/mainpack/MySolution.java:21:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/mainpack/MySolution.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entt' could be declared final
+src/com/mainpack/MySolution.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entt' could be declared final
+src/com/mainpack/MySolution.java:34:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/mainpack/MySolution.java:34:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/mainpack/MySolution.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'val' could be declared final
+src/com/mainpack/MySolution.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'val' could be declared final
+src/com/mainpack/MySolution.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'finalcost' could be declared final
+src/com/mainpack/MySolution.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'finalcost' could be declared final
+src/com/mainpack/MySolution.java:39:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/mainpack/MySolution.java:39:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/mainpack/MySolution.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'output' could be declared final
+src/com/mainpack/MySolution.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'output' could be declared final
+src/com/mainpack/MySolution.java:44:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/com/mainpack/MySolution.java:44:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/com/mainpack/MySolution.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/mainpack/MySolution.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/mainpack/MySolution.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'itr' could be declared final
+src/com/mainpack/MySolution.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'itr' could be declared final
+src/com/mainpack/MySolution.java:69:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/com/mainpack/MySolution.java:69:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/com/service/CalculateTax.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/CalculateTax.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/CalculateTax.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/service/CalculateTax.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/service/CalculateTax.java:4:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'taxCalculation': the method is declared in an interface type
+src/com/service/CalculateTax.java:4:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'taxCalculation': the method is declared in an interface type
+src/com/service/Imported.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/Imported.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/Imported.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/Imported.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/Imported.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/service/Imported.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/service/Imported.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'finalcost' could be declared final
+src/com/service/Imported.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'finalcost' could be declared final
+src/com/service/Imported.java:10:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/com/service/Imported.java:10:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/com/service/Manufactured.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/Manufactured.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/Manufactured.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/Manufactured.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/Manufactured.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/service/Manufactured.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/service/Manufactured.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'temp' could be declared final
+src/com/service/Manufactured.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'temp' could be declared final
+src/com/service/Raw.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/Raw.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/Raw.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/Raw.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/Raw.java:5:	ShortClassName:	ShortClassName: Avoid short class names like Raw
+src/com/service/Raw.java:5:	ShortClassName:	ShortClassName: Avoid short class names like Raw
+src/com/service/Raw.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/service/Raw.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/service/TotalTax.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/TotalTax.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/service/TotalTax.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/TotalTax.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/service/TotalTax.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/service/TotalTax.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/service/TotalTax.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'entt' is not assigned and could be declared final
+src/com/service/TotalTax.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'entt' is not assigned and could be declared final
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'15').
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'15').
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'20').
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'20').
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'25').
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'25').
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'29').
+src/com/service/TotalTax.java:7:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'finaltax' (lines '7'-'29').
+src/com/service/TotalTax.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'type' could be declared final
+src/com/service/TotalTax.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'type' could be declared final
+src/com/service/TotalTax.java:10:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'price' (lines '10'-'33').
+src/com/service/TotalTax.java:10:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'price' (lines '10'-'33').
+src/com/service/TotalTax.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'price' could be declared final
+src/com/service/TotalTax.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'price' could be declared final
+src/com/service/TotalTax.java:12:	MissingBreakInSwitch:	MissingBreakInSwitch: A switch statement does not contain a break
+src/com/service/TotalTax.java:12:	MissingBreakInSwitch:	MissingBreakInSwitch: A switch statement does not contain a break
+src/com/validation/Validate.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/validation/Validate.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/validation/Validate.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/validation/Validate.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/validation/Validate.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/com/validation/Validate.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/com/validation/Validate.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/validation/Validate.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/com/validation/Validate.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/com/validation/Validate.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/com/validation/Validate.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/validation/Validate.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/com/validation/Validate.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/com/validation/Validate.java:15:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/validation/Validate.java:15:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
