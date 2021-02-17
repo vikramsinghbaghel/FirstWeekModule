@@ -2,7 +2,7 @@ package com.service;
 
 import com.constants.Constants;
 
-public class Manufactured implements CalculateTax {
+public class Manufactured implements ItemType {
 
 	@Override
 	public float taxCalculation(float price) { // calculate the tax and return.

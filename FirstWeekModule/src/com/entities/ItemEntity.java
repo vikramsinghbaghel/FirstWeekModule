@@ -1,6 +1,6 @@
 package com.entities;
 
-public class ItemEntities {
+public class ItemEntity {
 
 	/*
 	 * this class will contain all the entities related to a particular item. and
@@ -11,7 +11,6 @@ public class ItemEntities {
 	private float itemPrice;
 	private String itemType;
 	private int itemQuantity;
-	
 
 	public String getItemName() {
 		return itemName;
